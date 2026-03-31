@@ -1,32 +1,31 @@
-# 🚀 KodeKloud Engineer DevOps Tasks
+# ☁️ KodeKloud Engineer AWS Tasks
 
 ## 📌 About This Repository
-This repository contains DevOps tasks assigned by the KodeKloud Engineer program.  
-I am completing these tasks as part of my journey in the KodeKloud Engineer program and documenting my hands-on practice, solutions, and key learnings.
+This repository contains **AWS-focused tasks** assigned by the KodeKloud Engineer program.  
+I am completing these tasks as part of my journey in the KodeKloud Engineer program and documenting my **hands-on practice, solutions, and key learnings in AWS**.
 
 ---
 
 ## 🎯 What I Am Doing
-- Solving real-world DevOps tasks in a multi-tier architecture environment  
-- Gaining deeper hands-on experience in **AWS, DevOps, and Cloud technologies**  
-- Strengthening my practical skills through real scenarios  
-- Brushing up my existing knowledge by applying it consistently  
+- Solving real-world **AWS cloud tasks** in practical environments  
+- Gaining deeper hands-on experience in **AWS, Cloud, and DevOps technologies**  
+- Strengthening my practical skills through real-world AWS scenarios  
+- Applying and reinforcing my existing knowledge consistently  
 
 ---
 
 ## 💡 Background
-I already have a solid understanding of DevOps, Cloud, and related technologies.  
-This repository is focused on **enhancing my hands-on experience and reinforcing concepts through practical implementation**.
+I already have a solid understanding of **AWS, DevOps, and Cloud technologies**.  
+This repository is focused on **enhancing my hands-on experience and reinforcing AWS concepts through practical implementation**.
 
 ---
 
 ## 🌿 Branching Strategy
-Currently, this repository is organized into the following branches:
+Currently, this repository is organized into the following branch:
 
-- **DevOps** → Contains DevOps-related tasks  
 - **AWS** → Contains AWS-related tasks  
 
-More branches will be added as needed while exploring additional domains.
+More branches may be added as needed while exploring additional cloud and DevOps domains.
 
 ---
 
@@ -47,22 +46,22 @@ Each folder includes:
 
 ## 🧠 Approach (STAR Method)
 
-### 🔹 Situation
-Understanding the environment and current setup before making any changes.
+### 🔹 Situation  
+Understanding the AWS environment and existing infrastructure before making any changes.
 
-### 🔹 Task
-Identifying the requirement or problem that needs to be solved.
+### 🔹 Task  
+Identifying the AWS-related requirement or problem.
 
-### 🔹 Action
-Performing the necessary commands, configurations, or steps to resolve the issue.
+### 🔹 Action  
+Performing necessary AWS configurations using **Console, CLI, or Infrastructure as Code (IaC)**.
 
-### 🔹 Result
+### 🔹 Result  
 Verifying the outcome and ensuring the task is completed successfully.
 
 ---
 
 ## 📈 Goal
-To become a highly skilled DevOps Engineer by consistently solving real-world tasks and strengthening problem-solving and implementation skills.
+To become a highly skilled **Cloud & DevOps Engineer** by consistently solving real-world AWS tasks and strengthening problem-solving and implementation skills.
 
 ---
 
