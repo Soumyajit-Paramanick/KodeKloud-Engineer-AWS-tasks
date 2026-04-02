@@ -34,4 +34,9 @@ for ((i=1; i<=n; i++)); do
 
     mkdir "$folder_name"
     echo "Created: $folder_name"
+    cd $folder_name
+    touch README.md
+    mkdir images
+    cd ..
+
 done
