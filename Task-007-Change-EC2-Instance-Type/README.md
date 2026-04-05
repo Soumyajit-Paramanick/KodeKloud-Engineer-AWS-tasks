@@ -75,9 +75,9 @@ An **EC2 Instance Type** defines the hardware configuration of the virtual serve
 
 ## 📸 Screenshots
 
-### 🔹 Instance Type Before Change (t2.nano)
+### 🔹 Instance Type After Change (t2.nano)
 <p align="center">
-  <img src="images/instance_type_t2_nano.png" alt="Instance Type Before Change" width="60%"/>
+  <img src="images/instance_type_t2_nano.png" alt="Instance Type After Change" width="60%"/>
 </p>
 
 ---
