@@ -10,7 +10,7 @@ for dir in Task-*; do
         num=$(echo "$dir" | cut -d'-' -f2)
 
         if [[ "$num" =~ ^[0-9]+$ ]]; then
-            if (( num > max )); then
+            if (( 10#$num > 10#$max )); then
                 max=$num
             fi
         fi
@@ -23,20 +23,21 @@ echo "Current max task number: $max"
 echo "Enter task names (one per line):"
 
 for ((i=1; i<=n; i++)); do
-    read task_name
+    read -r task_name
 
-    new_num=$(printf "%03d" $((max + i)))
+    new_num=$(printf "%03d" $((10#$max + i)))
 
-    # Optional: replace spaces with hyphen
+    # Replace spaces with hyphen
     clean_name=$(echo "$task_name" | tr ' ' '-')
 
     folder_name="Task-$new_num-$clean_name"
 
-    mkdir "$folder_name"
+    mkdir -p "$folder_name"
     echo "Created: $folder_name"
-    cd $folder_name
+
+    cd "$folder_name" || exit
     touch README.md
-    mkdir images
+    mkdir -p images
     cd ..
 
 done
