@@ -92,14 +92,9 @@ Without Elastic IP:
 
 ## 📸 Screenshots
 
-### 🔹 Elastic IP Allocated
+### 🔹 EC2 Instance
 <p align="center">
-  <img src="images/elastic_ip_allocated.png" alt="Elastic IP Allocated" width="60%"/>
-</p>
-
-### 🔹 Process of Associating Elastic IP
-<p align="center">
-  <img src="images/process_of_allocating_elastic_ip.png" alt="Association Process" width="60%"/>
+  <img src="images/ec2_instance.png" alt="EC2 Instance" width="60%"/>
 </p>
 
 ### 🔹 Elastic IP Address
@@ -107,9 +102,14 @@ Without Elastic IP:
   <img src="images/elastic_ip_address.png" alt="Elastic IP Address" width="60%"/>
 </p>
 
-### 🔹 EC2 Instance with Elastic IP
+### 🔹 Process of Associating Elastic IP
 <p align="center">
-  <img src="images/ec2_instance.png" alt="EC2 Instance" width="60%"/>
+  <img src="images/process_of_allocating_elastic_ip.png" alt="Association Process" width="60%"/>
+</p>
+
+### 🔹 Elastic IP Allocated
+<p align="center">
+  <img src="images/elastic_ip_allocated.png" alt="Elastic IP Allocated" width="60%"/>
 </p>
 
 ---
